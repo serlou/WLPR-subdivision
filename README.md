@@ -10,3 +10,5 @@ Subdivision schemes are an efficient tool to generate curves from a sample of po
 Read "example.m" to get used.
 
 Copyright (c) 2023 Sergio López-Ureña and Dionisio F. Yáñez
+
+This research has been supported through projects CIAICO/2021/227, PID2020-117211GB-I00 funded by MCIN/AEI/10.13039/501100011033 and PID2023-146836NB-I00 funded by MCIU/AEI/10.13039/501100011033.
